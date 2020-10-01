@@ -35,6 +35,6 @@ The repo contains a number of 3D reconstructed objects for testing that can be s
 Some of the objects contain a ColorByNormal surface shader, used for testing purposes - looking how the normals of different surface roughnesses change.
 
 
-The application was build together with **Jens Stokholm Høngaard** and uses code ideas presented in the paper: [Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://arxiv.org/abs/1209.1759#:~:text=The%20Difference%20of%20Normals%20(DoN,is%20quantitatively%20and%20qualitatively%20demonstrated)
+The application was build together with **Jens Stokholm Høngaard** and uses code ideas presented in the paper: [Difference of Normals as a Multi-Scale Operator in Unorganized Point Clouds](https://www.researchgate.net/publication/235924402_Difference_of_Normals_as_a_Multi-Scale_Operator_in_Unorganized_Point_Clouds)
 
 
