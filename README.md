@@ -3,6 +3,8 @@ A project for testing using the vibro motors in the HTC Vive controller to repro
 
 The project is based on the paper, published in VISIGRAPP 2020 - [Preliminary Study on the Use of Off-the-Shelf VR Controllers for Vibrotactile Differentiation of Levels of Roughness on Meshes](https://www.scitepress.org/Link.aspx?doi=10.5220%2f0009101303340340)
 
+![Visual](Images/haptics.png)
+
 # Prerequisites
 
 1. The Unity Engine updated to version 2019.3.7f1 or higher
@@ -24,6 +26,8 @@ To change the haptic respose from the object surface, please look at the Manager
 5. Multiplier - used to change the full vibrational response - high and low quickly. Used for testing
 
 A second script is present in the Manager object called - "Texture Value Capture", this script is initial test variation, used for gathering roughness values not from the normals of the object, but from the texture variation. 
+
+![Visual](Images/haptics2.png) ![Visual](Images/haptics3.png)
 
 # Additional Stuff
 The repo contains a number of 3D reconstructed objects for testing that can be swapped to see difference in their roughness profile. The object should contain a mesh collider to function. Custom objects can be imported and tested.
